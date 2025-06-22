@@ -1,11 +1,9 @@
 Multi-Level Referral and Earning System with Live Data Updates
 
 Profit Distribution Logic:
-1. Direct Earnings:
-○ The parent user earns 5% of the profit from their direct referrals (Level 1 users).
-2. Indirect Earnings:
-○ The parent user earns 1% of the profit made by their direct referrals fromsecond-level users (Level 2).
-4. Profit Conditions:
+1. Direct Earnings: The parent user earns 5% of the profit from their direct referrals (Level 1 users).
+2. Indirect Earnings: The parent user earns 1% of the profit made by their direct referrals fromsecond-level users (Level 2).
+3. Profit Conditions:
 ○ Earnings apply only when a purchase exceeds 1000Rs.
 ○ Profits are calculated and updated in real-time.
 
